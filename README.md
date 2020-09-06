@@ -12,4 +12,4 @@ the Cradle VSA device and upload it to the server. Our application is designed
 for remote areas with an unstable internet connection; thus, so we implemented 
 an SMS feature.
 
-> [Check Wiki for technical details](https://csil-git1.cs.surrey.sfu.ca/415-cradle/cradlemobile/-/wikis/home)
+**Screenshots inside root directory**
